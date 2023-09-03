@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13806261527",
+    "project_id": "crowd-computing-7e7ed",
+    "storage_bucket": "crowd-computing-7e7ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13806261527:android:42deddbe9bbea8772dd352",
+        "android_client_info": {
+          "package_name": "com.example.crowd_funding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13806261527-rt6fq4t42fd5fe3o1jifmub68fdgqaf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUN6Z5_sYBD6X_Dvb6P0lkKGdmnWPhLQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13806261527-rt6fq4t42fd5fe3o1jifmub68fdgqaf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
